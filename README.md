@@ -1,1 +1,3 @@
-# BumbleBase
+# HornetBase
+
+More powerful than BumbleBase
