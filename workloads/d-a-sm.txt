@@ -1,0 +1,200 @@
+insert 100 0 into t
+delete 100 from t
+insert 99 0 into t
+delete 99 from t
+insert 98 0 into t
+delete 98 from t
+insert 97 0 into t
+delete 97 from t
+insert 96 0 into t
+delete 96 from t
+insert 95 0 into t
+delete 95 from t
+insert 94 0 into t
+delete 94 from t
+insert 93 0 into t
+delete 93 from t
+insert 92 0 into t
+delete 92 from t
+insert 91 0 into t
+delete 91 from t
+insert 90 0 into t
+delete 90 from t
+insert 89 0 into t
+delete 89 from t
+insert 88 0 into t
+delete 88 from t
+insert 87 0 into t
+delete 87 from t
+insert 86 0 into t
+delete 86 from t
+insert 85 0 into t
+delete 85 from t
+insert 84 0 into t
+delete 84 from t
+insert 83 0 into t
+delete 83 from t
+insert 82 0 into t
+delete 82 from t
+insert 81 0 into t
+delete 81 from t
+insert 80 0 into t
+delete 80 from t
+insert 79 0 into t
+delete 79 from t
+insert 78 0 into t
+delete 78 from t
+insert 77 0 into t
+delete 77 from t
+insert 76 0 into t
+delete 76 from t
+insert 75 0 into t
+delete 75 from t
+insert 74 0 into t
+delete 74 from t
+insert 73 0 into t
+delete 73 from t
+insert 72 0 into t
+delete 72 from t
+insert 71 0 into t
+delete 71 from t
+insert 70 0 into t
+delete 70 from t
+insert 69 0 into t
+delete 69 from t
+insert 68 0 into t
+delete 68 from t
+insert 67 0 into t
+delete 67 from t
+insert 66 0 into t
+delete 66 from t
+insert 65 0 into t
+delete 65 from t
+insert 64 0 into t
+delete 64 from t
+insert 63 0 into t
+delete 63 from t
+insert 62 0 into t
+delete 62 from t
+insert 61 0 into t
+delete 61 from t
+insert 60 0 into t
+delete 60 from t
+insert 59 0 into t
+delete 59 from t
+insert 58 0 into t
+delete 58 from t
+insert 57 0 into t
+delete 57 from t
+insert 56 0 into t
+delete 56 from t
+insert 55 0 into t
+delete 55 from t
+insert 54 0 into t
+delete 54 from t
+insert 53 0 into t
+delete 53 from t
+insert 52 0 into t
+delete 52 from t
+insert 51 0 into t
+delete 51 from t
+insert 50 0 into t
+delete 50 from t
+insert 49 0 into t
+delete 49 from t
+insert 48 0 into t
+delete 48 from t
+insert 47 0 into t
+delete 47 from t
+insert 46 0 into t
+delete 46 from t
+insert 45 0 into t
+delete 45 from t
+insert 44 0 into t
+delete 44 from t
+insert 43 0 into t
+delete 43 from t
+insert 42 0 into t
+delete 42 from t
+insert 41 0 into t
+delete 41 from t
+insert 40 0 into t
+delete 40 from t
+insert 39 0 into t
+delete 39 from t
+insert 38 0 into t
+delete 38 from t
+insert 37 0 into t
+delete 37 from t
+insert 36 0 into t
+delete 36 from t
+insert 35 0 into t
+delete 35 from t
+insert 34 0 into t
+delete 34 from t
+insert 33 0 into t
+delete 33 from t
+insert 32 0 into t
+delete 32 from t
+insert 31 0 into t
+delete 31 from t
+insert 30 0 into t
+delete 30 from t
+insert 29 0 into t
+delete 29 from t
+insert 28 0 into t
+delete 28 from t
+insert 27 0 into t
+delete 27 from t
+insert 26 0 into t
+delete 26 from t
+insert 25 0 into t
+delete 25 from t
+insert 24 0 into t
+delete 24 from t
+insert 23 0 into t
+delete 23 from t
+insert 22 0 into t
+delete 22 from t
+insert 21 0 into t
+delete 21 from t
+insert 20 0 into t
+delete 20 from t
+insert 19 0 into t
+delete 19 from t
+insert 18 0 into t
+delete 18 from t
+insert 17 0 into t
+delete 17 from t
+insert 16 0 into t
+delete 16 from t
+insert 15 0 into t
+delete 15 from t
+insert 14 0 into t
+delete 14 from t
+insert 13 0 into t
+delete 13 from t
+insert 12 0 into t
+delete 12 from t
+insert 11 0 into t
+delete 11 from t
+insert 10 0 into t
+delete 10 from t
+insert 9 0 into t
+delete 9 from t
+insert 8 0 into t
+delete 8 from t
+insert 7 0 into t
+delete 7 from t
+insert 6 0 into t
+delete 6 from t
+insert 5 0 into t
+delete 5 from t
+insert 4 0 into t
+delete 4 from t
+insert 3 0 into t
+delete 3 from t
+insert 2 0 into t
+delete 2 from t
+insert 1 0 into t
+delete 1 from t
